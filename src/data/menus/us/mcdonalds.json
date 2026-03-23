@@ -1,0 +1,150 @@
+{
+  "slug": "mcdonalds",
+  "name": "McDonald's",
+  "country": "us",
+  "countryName": "United States",
+  "currency": "USD",
+  "lastUpdated": "2026-03-23",
+  "sourceUrl": "https://www.mcdonalds.com/us/en-us/full-menu.html",
+  "categories": [
+    {
+      "name": "Breakfast",
+      "items": [
+        { "name": "Egg McMuffin" },
+        { "name": "Sausage McMuffin" },
+        { "name": "Sausage McMuffin with Egg" },
+        { "name": "Bacon, Egg & Cheese Biscuit" },
+        { "name": "Sausage Biscuit" },
+        { "name": "Sausage Biscuit with Egg" },
+        { "name": "Bacon, Egg & Cheese McGriddles" },
+        { "name": "Sausage McGriddles" },
+        { "name": "Sausage, Egg & Cheese McGriddles" },
+        { "name": "Bacon, Egg & Cheese Bagel" },
+        { "name": "Sausage, Egg & Cheese Bagel" },
+        { "name": "Steak, Egg & Cheese Bagel" },
+        { "name": "Egg and Cheese Bagel" },
+        { "name": "Big Breakfast" },
+        { "name": "Big Breakfast with Hotcakes" },
+        { "name": "Hotcakes" },
+        { "name": "Hotcakes and Sausage" },
+        { "name": "Hash Browns" },
+        { "name": "Fruit & Maple Oatmeal" },
+        { "name": "Sausage Burrito" }
+      ]
+    },
+    {
+      "name": "Burgers",
+      "items": [
+        { "name": "Big Mac" },
+        { "name": "Quarter Pounder with Cheese" },
+        { "name": "Double Quarter Pounder with Cheese" },
+        { "name": "Quarter Pounder with Cheese Deluxe" },
+        { "name": "Bacon Quarter Pounder with Cheese" },
+        { "name": "McDouble" },
+        { "name": "Daily Double" },
+        { "name": "Cheeseburger" },
+        { "name": "Double Cheeseburger" },
+        { "name": "Hamburger" }
+      ]
+    },
+    {
+      "name": "Chicken & Fish",
+      "items": [
+        { "name": "McCrispy" },
+        { "name": "Deluxe McCrispy" },
+        { "name": "Spicy McCrispy" },
+        { "name": "Spicy Deluxe McCrispy" },
+        { "name": "Filet-O-Fish" },
+        { "name": "McChicken" },
+        { "name": "McCrispy Strips (3-piece)" }
+      ]
+    },
+    {
+      "name": "McNuggets",
+      "items": [
+        { "name": "4 Piece Chicken McNuggets" },
+        { "name": "6 Piece Chicken McNuggets" },
+        { "name": "10 Piece Chicken McNuggets" },
+        { "name": "20 Piece Chicken McNuggets" },
+        { "name": "40 Piece Chicken McNuggets" }
+      ]
+    },
+    {
+      "name": "Fries & Sides",
+      "items": [
+        { "name": "Small French Fries" },
+        { "name": "Medium French Fries" },
+        { "name": "Large French Fries" },
+        { "name": "Apple Slices" }
+      ]
+    },
+    {
+      "name": "Happy Meal",
+      "items": [
+        { "name": "Hamburger Happy Meal" },
+        { "name": "4 Piece McNuggets Happy Meal" },
+        { "name": "6 Piece McNuggets Happy Meal" }
+      ]
+    },
+    {
+      "name": "McCafe Coffees",
+      "items": [
+        { "name": "Premium Roast Coffee" },
+        { "name": "Iced Coffee" },
+        { "name": "Latte" },
+        { "name": "Cappuccino" },
+        { "name": "Caramel Macchiato" },
+        { "name": "Americano" },
+        { "name": "Mocha Latte" },
+        { "name": "Caramel Frappe" },
+        { "name": "Mocha Frappe" }
+      ]
+    },
+    {
+      "name": "Sweets & Treats",
+      "items": [
+        { "name": "McFlurry with OREO Cookies" },
+        { "name": "McFlurry with M&M'S Candies" },
+        { "name": "Vanilla Cone" },
+        { "name": "Chocolate Shake" },
+        { "name": "Vanilla Shake" },
+        { "name": "Strawberry Shake" },
+        { "name": "Hot Fudge Sundae" },
+        { "name": "Hot Caramel Sundae" },
+        { "name": "Baked Apple Pie" },
+        { "name": "Chocolate Chip Cookie" }
+      ]
+    },
+    {
+      "name": "Beverages",
+      "items": [
+        { "name": "Coca-Cola" },
+        { "name": "Diet Coke" },
+        { "name": "Sprite" },
+        { "name": "Dr Pepper" },
+        { "name": "Fanta Orange" },
+        { "name": "Hi-C Orange Lavaburst" },
+        { "name": "Sweet Tea" },
+        { "name": "Unsweetened Iced Tea" },
+        { "name": "Minute Maid Orange Juice" },
+        { "name": "Milk" },
+        { "name": "Hot Chocolate" },
+        { "name": "DASANI Water" }
+      ]
+    },
+    {
+      "name": "Sauces",
+      "items": [
+        { "name": "Tangy Barbeque Sauce" },
+        { "name": "Spicy Buffalo Sauce" },
+        { "name": "Creamy Ranch Sauce" },
+        { "name": "Honey Mustard Sauce" },
+        { "name": "Sweet 'N Sour Sauce" },
+        { "name": "Ketchup" },
+        { "name": "Mayonnaise" },
+        { "name": "Mustard" },
+        { "name": "Honey" }
+      ]
+    }
+  ]
+}

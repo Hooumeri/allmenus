@@ -1,0 +1,89 @@
+{
+  "slug": "tacobell",
+  "name": "Taco Bell",
+  "country": "us",
+  "countryName": "United States",
+  "currency": "USD",
+  "lastUpdated": "2026-03-23",
+  "sourceUrl": "https://www.tacobell.com/food",
+  "categories": [
+    {
+      "name": "Tacos",
+      "items": [
+        { "name": "Crunchy Taco" },
+        { "name": "Crunchy Taco Supreme" },
+        { "name": "Soft Taco" },
+        { "name": "Nacho Cheese Doritos Locos Tacos" },
+        { "name": "Cantina Chicken Crispy Taco" },
+        { "name": "Cantina Chicken Soft Taco" }
+      ]
+    },
+    {
+      "name": "Burritos",
+      "items": [
+        { "name": "Bean Burrito" },
+        { "name": "Burrito Supreme" },
+        { "name": "Beefy 5-Layer Burrito" },
+        { "name": "Shredded Chicken Burrito" },
+        { "name": "Cantina Chicken Burrito" }
+      ]
+    },
+    {
+      "name": "Quesadillas",
+      "items": [
+        { "name": "Cheese Quesadilla" },
+        { "name": "Chicken Quesadilla" },
+        { "name": "Steak Quesadilla" },
+        { "name": "Cantina Chicken Quesadilla" }
+      ]
+    },
+    {
+      "name": "Specialties",
+      "items": [
+        { "name": "Mexican Pizza" },
+        { "name": "Crunchwrap Supreme" },
+        { "name": "Chalupa Supreme" },
+        { "name": "Cheesy Gordita Crunch" },
+        { "name": "Cheesy Roll Up" },
+        { "name": "Cantina Chicken Bowl" }
+      ]
+    },
+    {
+      "name": "Nachos",
+      "items": [
+        { "name": "Chips and Nacho Cheese Sauce" },
+        { "name": "Nachos BellGrande" },
+        { "name": "Nachos Supreme" }
+      ]
+    },
+    {
+      "name": "Sides & Sweets",
+      "items": [
+        { "name": "Black Beans" },
+        { "name": "Cinnamon Twists" },
+        { "name": "Nacho Fries" },
+        { "name": "Cinnabon Delights (2-pack)" },
+        { "name": "Cinnabon Delights (12-pack)" }
+      ]
+    },
+    {
+      "name": "Drinks",
+      "items": [
+        { "name": "Mountain Dew Baja Blast" },
+        { "name": "Mountain Dew Baja Blast Freeze" },
+        { "name": "Pepsi" },
+        { "name": "Diet Pepsi" },
+        { "name": "Sierra Mist" },
+        { "name": "Gatorade G2 Fruit Punch" },
+        { "name": "Iced Cinnabon Delights Coffee" }
+      ]
+    },
+    {
+      "name": "Group Meals",
+      "items": [
+        { "name": "Taco Party Pack (12-Pack)" },
+        { "name": "Cravings Pack" }
+      ]
+    }
+  ]
+}

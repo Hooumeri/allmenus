@@ -1,0 +1,72 @@
+{
+  "slug": "tacobell",
+  "name": "Taco Bell",
+  "country": "fi",
+  "countryName": "Finland",
+  "currency": "EUR",
+  "lastUpdated": "2026-03-23",
+  "sourceUrl": "https://www.tacobell.fi/menu",
+  "note": "Menu data sourced from Taco Bell Finland. Taco Bell has operated in Finland since 2017.",
+  "categories": [
+    {
+      "name": "Tacot (Tacos)",
+      "items": [
+        { "name": "Crunchy Taco" },
+        { "name": "Crunchy Taco Supreme" },
+        { "name": "Soft Taco" },
+        { "name": "Doritos Locos Tacos" },
+        { "name": "Naked Chicken Taco" }
+      ]
+    },
+    {
+      "name": "Burritot (Burritos)",
+      "items": [
+        { "name": "Bean Burrito" },
+        { "name": "Burrito Supreme" },
+        { "name": "Grilled Stuft Burrito" },
+        { "name": "Crunchwrap Supreme" }
+      ]
+    },
+    {
+      "name": "Quesadillat (Quesadillas)",
+      "items": [
+        { "name": "Cheese Quesadilla" },
+        { "name": "Chicken Quesadilla" }
+      ]
+    },
+    {
+      "name": "Bowlit (Bowls)",
+      "items": [
+        { "name": "Power Bowl - Chicken" },
+        { "name": "Power Bowl - Veggie" }
+      ]
+    },
+    {
+      "name": "Nachot (Nachos)",
+      "items": [
+        { "name": "Nachos Supreme" },
+        { "name": "Nachos BellGrande" },
+        { "name": "Chips & Cheese" }
+      ]
+    },
+    {
+      "name": "Lisukkeet & Jalkiruoat (Sides & Desserts)",
+      "items": [
+        { "name": "Cinnamon Twists" },
+        { "name": "Churros" },
+        { "name": "Mexican Rice" },
+        { "name": "Nacho Fries" }
+      ]
+    },
+    {
+      "name": "Juomat (Drinks)",
+      "items": [
+        { "name": "Pepsi" },
+        { "name": "Pepsi Max" },
+        { "name": "7UP" },
+        { "name": "Mountain Dew" },
+        { "name": "Baja Blast Freeze" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "allmenus",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "node scripts/build.mjs",
+    "preview": "vite preview",
+    "update-menus": "node scripts/update-menus.mjs"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}
