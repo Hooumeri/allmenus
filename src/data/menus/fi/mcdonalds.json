@@ -4,127 +4,287 @@
   "country": "fi",
   "countryName": "Finland",
   "currency": "EUR",
-  "lastUpdated": "2026-03-23",
+  "lastUpdated": "2026-03-30",
   "sourceUrl": "https://www.mcdonalds.com/fi/fi-fi/menu.html",
   "categories": [
     {
       "name": "Hampurilaiset (Burgers)",
       "items": [
-        { "name": "Big Arch" },
-        { "name": "Sour Cream & Onion" },
-        { "name": "Sour Cream & Onion McDouble" },
-        { "name": "El Maco" },
-        { "name": "Big Mac" },
-        { "name": "Big Tasty Bacon" },
-        { "name": "Double Big Tasty Bacon" },
-        { "name": "Double Quarter Pounder with Cheese" },
-        { "name": "Quarter Pounder with Cheese" },
-        { "name": "McFeast" },
-        { "name": "Ruis Feast" },
-        { "name": "Triplajuustohampurilainen (Triple Cheeseburger)" },
-        { "name": "Tuplajuustohampurilainen (Double Cheeseburger)" },
-        { "name": "Juustohampurilainen (Cheeseburger)" },
-        { "name": "Hampurilainen (Hamburger)" },
-        { "name": "Gluteeniton sampyla (Gluten-Free Bun)" }
+        {
+          "name": "Big Arch"
+        },
+        {
+          "name": "Sour Cream & Onion"
+        },
+        {
+          "name": "Sour Cream & Onion McDouble"
+        },
+        {
+          "name": "El Maco"
+        },
+        {
+          "name": "Big Mac"
+        },
+        {
+          "name": "Big Tasty Bacon"
+        },
+        {
+          "name": "Double Big Tasty Bacon"
+        },
+        {
+          "name": "Double Quarter Pounder with Cheese"
+        },
+        {
+          "name": "Quarter Pounder with Cheese"
+        },
+        {
+          "name": "McFeast"
+        },
+        {
+          "name": "Ruis Feast"
+        },
+        {
+          "name": "Triplajuustohampurilainen (Triple Cheeseburger)"
+        },
+        {
+          "name": "Tuplajuustohampurilainen (Double Cheeseburger)"
+        },
+        {
+          "name": "Juustohampurilainen (Cheeseburger)"
+        },
+        {
+          "name": "Hampurilainen (Hamburger)"
+        },
+        {
+          "name": "Gluteeniton sampyla (Gluten-Free Bun)"
+        }
       ]
     },
     {
       "name": "Kanatuotteet (Chicken)",
       "items": [
-        { "name": "McCrispy" },
-        { "name": "McCrispy Green Chili" },
-        { "name": "McCrispy Deluxe" },
-        { "name": "Sour Cream & Onion Chicken" },
-        { "name": "Chicken El Maco" },
-        { "name": "McChicken" },
-        { "name": "Chicken Burger" },
-        { "name": "McWrap Hot Ranch" },
-        { "name": "McWrap Classic Chicken" },
-        { "name": "McWrap El Maco Chicken" },
-        { "name": "Chicken McNuggets" }
+        {
+          "name": "McCrispy"
+        },
+        {
+          "name": "McCrispy Green Chili"
+        },
+        {
+          "name": "McCrispy Deluxe"
+        },
+        {
+          "name": "Sour Cream & Onion Chicken"
+        },
+        {
+          "name": "Chicken El Maco"
+        },
+        {
+          "name": "McChicken"
+        },
+        {
+          "name": "Chicken Burger"
+        },
+        {
+          "name": "McWrap Hot Ranch"
+        },
+        {
+          "name": "McWrap Classic Chicken"
+        },
+        {
+          "name": "McWrap El Maco Chicken"
+        },
+        {
+          "name": "Chicken McNuggets"
+        }
       ]
     },
     {
       "name": "Finger Food & Lisukkeet (Sides)",
       "items": [
-        { "name": "Big Share" },
-        { "name": "Pink McShaker Fries" },
-        { "name": "Chicken McNuggets" },
-        { "name": "Veggie Nuggets" },
-        { "name": "Chili Cheese Tops" },
-        { "name": "Ranskalaiset (French Fries)" },
-        { "name": "Miniporkkanat (Mini Carrots)" },
-        { "name": "Omenalohkot (Apple Slices)" }
+        {
+          "name": "Big Share"
+        },
+        {
+          "name": "Pink McShaker Fries"
+        },
+        {
+          "name": "Chicken McNuggets"
+        },
+        {
+          "name": "Veggie Nuggets"
+        },
+        {
+          "name": "Chili Cheese Tops"
+        },
+        {
+          "name": "Ranskalaiset (French Fries)"
+        },
+        {
+          "name": "Miniporkkanat (Mini Carrots)"
+        },
+        {
+          "name": "Omenalohkot (Apple Slices)"
+        }
       ]
     },
     {
       "name": "Dippikastikkeet (Dipping Sauces)",
       "items": [
-        { "name": "Barbequedippi (BBQ Dip)" },
-        { "name": "Cheddar-dippi (Cheddar Dip)" },
-        { "name": "Chili Mayo -dippi (Chili Mayo Dip)" },
-        { "name": "Currydippi (Curry Dip)" },
-        { "name": "Hapanimeladippi (Sweet & Sour Dip)" },
-        { "name": "McFeast-dippi (McFeast Dip)" },
-        { "name": "Valkosipulidippi (Garlic Dip)" }
+        {
+          "name": "Barbequedippi (BBQ Dip)"
+        },
+        {
+          "name": "Cheddar-dippi (Cheddar Dip)"
+        },
+        {
+          "name": "Chili Mayo -dippi (Chili Mayo Dip)"
+        },
+        {
+          "name": "Currydippi (Curry Dip)"
+        },
+        {
+          "name": "Hapanimeladippi (Sweet & Sour Dip)"
+        },
+        {
+          "name": "McFeast-dippi (McFeast Dip)"
+        },
+        {
+          "name": "Valkosipulidippi (Garlic Dip)"
+        }
       ]
     },
     {
       "name": "Aamiainen (Breakfast)",
       "items": [
-        { "name": "Fresh McMuffin" },
-        { "name": "Double Fresh McMuffin" },
-        { "name": "Ruis Fresh" },
-        { "name": "Bacon McMuffin & Egg" },
-        { "name": "Sausage McMuffin & Egg" }
+        {
+          "name": "Fresh McMuffin"
+        },
+        {
+          "name": "Double Fresh McMuffin"
+        },
+        {
+          "name": "Ruis Fresh"
+        },
+        {
+          "name": "Bacon McMuffin & Egg"
+        },
+        {
+          "name": "Sausage McMuffin & Egg"
+        }
       ]
     },
     {
       "name": "Kahvit & Kahvileivat (Coffee & Pastries)",
       "items": [
-        { "name": "Kahvi (Coffee)" },
-        { "name": "Americano" },
-        { "name": "Latte" },
-        { "name": "Cappuccino" },
-        { "name": "Flat White" },
-        { "name": "Tuplaespresso (Double Espresso)" },
-        { "name": "Kuuma kaakao (Hot Cocoa)" },
-        { "name": "Kanelipulla (Cinnamon Bun)" },
-        { "name": "Donitsi (Donut)" },
-        { "name": "Suklaa-Cookie (Chocolate Cookie)" }
+        {
+          "name": "Kahvi (Coffee)"
+        },
+        {
+          "name": "Americano"
+        },
+        {
+          "name": "Latte"
+        },
+        {
+          "name": "Cappuccino"
+        },
+        {
+          "name": "Flat White"
+        },
+        {
+          "name": "Tuplaespresso (Double Espresso)"
+        },
+        {
+          "name": "Kuuma kaakao (Hot Cocoa)"
+        },
+        {
+          "name": "Kanelipulla (Cinnamon Bun)"
+        },
+        {
+          "name": "Donitsi (Donut)"
+        },
+        {
+          "name": "Suklaa-Cookie (Chocolate Cookie)"
+        }
       ]
     },
     {
       "name": "Jalkiruoat (Desserts)",
       "items": [
-        { "name": "McFlurry Fizzypop" },
-        { "name": "McFlurry Oreo" },
-        { "name": "McFlurry Daim" },
-        { "name": "McFlurry Smarties" },
-        { "name": "Strosseli Sundae" },
-        { "name": "Suklaa Sundae Mix" },
-        { "name": "Kinuski Sundae Mix" },
-        { "name": "Kinuski Sundae" },
-        { "name": "Suklaa Sundae" },
-        { "name": "Sundae" },
-        { "name": "Pirtelo mansikka (Strawberry Milkshake)" },
-        { "name": "Pirtelo suklaa (Chocolate Milkshake)" },
-        { "name": "Pirtelo vanilja (Vanilla Milkshake)" }
+        {
+          "name": "McFlurry Fizzypop"
+        },
+        {
+          "name": "McFlurry Oreo"
+        },
+        {
+          "name": "McFlurry Daim"
+        },
+        {
+          "name": "McFlurry Smarties"
+        },
+        {
+          "name": "Strosseli Sundae"
+        },
+        {
+          "name": "Suklaa Sundae Mix"
+        },
+        {
+          "name": "Kinuski Sundae Mix"
+        },
+        {
+          "name": "Kinuski Sundae"
+        },
+        {
+          "name": "Suklaa Sundae"
+        },
+        {
+          "name": "Sundae"
+        },
+        {
+          "name": "Pirtelo mansikka (Strawberry Milkshake)"
+        },
+        {
+          "name": "Pirtelo suklaa (Chocolate Milkshake)"
+        },
+        {
+          "name": "Pirtelo vanilja (Vanilla Milkshake)"
+        }
       ]
     },
     {
       "name": "Juomat (Beverages)",
       "items": [
-        { "name": "Sakura X Sprite Zero" },
-        { "name": "Coca-Cola" },
-        { "name": "Coca-Cola Zero Sugar" },
-        { "name": "Fanta Sitruuna Sokeriton (Fanta Lemon Sugar-Free)" },
-        { "name": "Fanta Zero Sugar" },
-        { "name": "Sprite Zero Sugar" },
-        { "name": "BonAqua Mansikka-kiivi (Strawberry-Kiwi)" },
-        { "name": "Appelsiinimehu (Orange Juice)" },
-        { "name": "Omenataysmehu (Apple Juice)" },
-        { "name": "Valio Luomu rasvaton maito (Organic Skim Milk)" }
+        {
+          "name": "Sakura X Sprite Zero"
+        },
+        {
+          "name": "Coca-Cola"
+        },
+        {
+          "name": "Coca-Cola Zero Sugar"
+        },
+        {
+          "name": "Fanta Sitruuna Sokeriton (Fanta Lemon Sugar-Free)"
+        },
+        {
+          "name": "Fanta Zero Sugar"
+        },
+        {
+          "name": "Sprite Zero Sugar"
+        },
+        {
+          "name": "BonAqua Mansikka-kiivi (Strawberry-Kiwi)"
+        },
+        {
+          "name": "Appelsiinimehu (Orange Juice)"
+        },
+        {
+          "name": "Omenataysmehu (Apple Juice)"
+        },
+        {
+          "name": "Valio Luomu rasvaton maito (Organic Skim Milk)"
+        }
       ]
     }
   ]
